@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0215d88e-7310-44dc-ac43-8799adf9f1ea" name="Default Changelist" comment="" />
+    <list default="true" id="0215d88e-7310-44dc-ac43-8799adf9f1ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191212.md" beforeDir="false" afterPath="$PROJECT_DIR$/191212.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191217.md" beforeDir="false" afterPath="$PROJECT_DIR$/191217.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,8 @@
       <workItem from="1576198313520" duration="168000" />
       <workItem from="1576473710290" duration="1528000" />
       <workItem from="1576545276196" duration="894000" />
+      <workItem from="1577065023680" duration="1409000" />
+      <workItem from="1577370681296" duration="862000" />
     </task>
     <task id="LOCAL-00001" summary="191213 awe console, Datagrip 단축키">
       <created>1576474013466</created>
