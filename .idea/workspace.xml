@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0215d88e-7310-44dc-ac43-8799adf9f1ea" name="Default Changelist" comment="내용 추가 및 수정">
+    <list default="true" id="0215d88e-7310-44dc-ac43-8799adf9f1ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/200106.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +50,8 @@
       <workItem from="1576473710290" duration="1528000" />
       <workItem from="1576545276196" duration="894000" />
       <workItem from="1577065023680" duration="1409000" />
-      <workItem from="1577370681296" duration="4899000" />
+      <workItem from="1577370681296" duration="8820000" />
+      <workItem from="1578308093763" duration="2229000" />
     </task>
     <task id="LOCAL-00001" summary="191213 awe console, Datagrip 단축키">
       <created>1576474013466</created>
@@ -65,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577371914879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020 first commit, Java Base">
+      <created>1578236005875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578236005876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020 first commit, Java Base">
+      <created>1578236014216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578236014216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="191213 awe console, Datagrip 단축키" />
     <MESSAGE value="내용 추가 및 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="내용 추가 및 수정" />
+    <MESSAGE value="2020 first commit, Java Base" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 first commit, Java Base" />
   </component>
 </project>
