@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0215d88e-7310-44dc-ac43-8799adf9f1ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/200107.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200108.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191217.md" beforeDir="false" afterPath="$PROJECT_DIR$/191217.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,8 @@
       <workItem from="1577065023680" duration="1409000" />
       <workItem from="1577370681296" duration="8820000" />
       <workItem from="1578308093763" duration="2460000" />
-      <workItem from="1578373628442" duration="6625000" />
+      <workItem from="1578373628442" duration="7147000" />
+      <workItem from="1578449256195" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary="191213 awe console, Datagrip 단축키">
       <created>1576474013466</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578321132083</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20200107 Spring boot Annotation">
+      <created>1578407198297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578407198298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="내용 추가 및 수정" />
     <MESSAGE value="2020 first commit, Java Base" />
     <MESSAGE value="20200106 single-ton Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200106 single-ton Pattern" />
+    <MESSAGE value="20200107 Spring boot Annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200107 Spring boot Annotation" />
   </component>
 </project>
